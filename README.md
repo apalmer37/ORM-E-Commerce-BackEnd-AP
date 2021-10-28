@@ -18,7 +18,7 @@ Building the back end for an e-commerce site by configuring a working Express.js
 ## Technologies
 * Dotenv
 * Express
-* Mysql12
+* Mysql2
 * Sequalize
 
 ## Links
