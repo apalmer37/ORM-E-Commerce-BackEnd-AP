@@ -22,7 +22,7 @@ Building the back end for an e-commerce site by configuring a working Express.js
 * Sequalize
 
 ## Links
-
+https://watch.screencastify.com/v/L6RvGYyZZyCQCaQmohtY
 
 ## Questions
 Check out this repo on my Github: apalmer37.
